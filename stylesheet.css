@@ -1,0 +1,45 @@
+h1{
+	font-family: Verdana, Impact, Arial, Times, Courier;
+	font-size: 3em;
+	color: #ffffff;
+	text-align: right;
+	
+}
+body{
+	background-color: #C170C5;
+	color: #ffffff;
+	font-family: Verdana;
+	
+}
+div{
+	
+	border: 2px solid #ffffff;
+	background-color: #ffffff;
+	height: 60px;
+	width: 150px;
+	margin: 0px;
+	text-align: center;
+		
+}
+div p{
+	color: #C170C5;
+	font-family: Verdana, Impact, Arial, Times, Courier;
+	
+}
+footer{
+	border: 2px solid #ffffff;
+	color: #ffffff;
+}
+a:link{
+    text-decoration: none;
+    color: #ffffff;
+    
+}
+a:hover{
+    color: #000000;   
+    
+}
+a:visited{
+    color: #825F84;   
+    
+}
